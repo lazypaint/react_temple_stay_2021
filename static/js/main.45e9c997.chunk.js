@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_temple_stay_2021=this.webpackJsonpreact_temple_stay_2021||[]).push([[0],{39:function(e,t,c){"use strict";c.r(t);var n=c(2),r=c.n(n),s=c(14),a=c.n(s),d=(c(19),c(1));var i=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("h1",{children:"dd"})})};a.a.render(Object(d.jsx)(r.a.StrictMode,{children:Object(d.jsx)(i,{})}),document.getElementById("root"))}},[[39,1,2]]]);
+//# sourceMappingURL=main.45e9c997.chunk.js.map
